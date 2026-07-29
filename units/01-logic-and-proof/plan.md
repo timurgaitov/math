@@ -41,5 +41,10 @@ Adjust the pace based on what comes back.
 - Student has written 2–3 short proofs of trivial claims (e.g. sum of two even
   numbers is even) with correct logical structure.
 
+## Companion reading (optional)
+
+Book of Proof, Chapter 2 (Logic); §1.1 for set notation as it comes up.
+See [curriculum.md](../../curriculum.md) for the book link and full mapping.
+
 Notes produced by this unit go in `notes/` (e.g. `notes/implication.md`,
 `notes/quantifiers.md`). Exercises in `exercises/`.

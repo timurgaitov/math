@@ -13,3 +13,17 @@ proof technique is solid.
 
 Status values: `not started` / `in progress` / `done`.
 Keep this table current; PROGRESS.md points at the active unit.
+
+## Companion book
+
+Hammack, **Book of Proof** (3rd ed.) — free from the author's site:
+https://www.people.vcu.edu/~rhammack/BookOfProof/ (solutions to odd-numbered
+exercises included). Optional reading between sessions; the dialogue is the
+course, the book is the reference.
+
+Rough mapping to units:
+
+- Unit 1 → Chapter 2 (Logic), plus §1.1 for basic set notation
+- Unit 2 → Chapters 4–7 (direct, contrapositive, contradiction), 9
+  (disproof), 10 (induction)
+- Unit 3 → Chapters 1 (Sets), 11 (Relations), 12 (Functions)
