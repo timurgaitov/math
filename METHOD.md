@@ -26,6 +26,18 @@ day-to-day sessions only need [PROGRESS.md](PROGRESS.md).
   keep everything inside mathematics.
 - Repo files contain math content and progress only — no personal context.
 
+## Notation
+
+- The student types plain ASCII; no symbol entry required. Standard shorthand:
+  `eps`/`delta` for ε/δ, `for all`/`exists` for quantifiers, `in`/`subset` for
+  ∈/⊆, `<=`/`>=`/`!=`, `=>` (implies), `<=>` (iff), `->` (tends to),
+  `sqrt(2)`, `x^2`, `a_n`, `|x - a|`.
+- The tutor replies with real Unicode symbols (∀, ∃, ε, ≤, …) so the student
+  reads proper notation even while typing ASCII.
+- In notes and exercise files, show LaTeX alongside the plain form on first use
+  of a symbol (e.g. "∀ (`\forall`)") so the student absorbs LaTeX passively;
+  no separate LaTeX study.
+
 ## Session shape (~typical)
 
 1. Recall: 2–3 quick questions on the previous session's material.
