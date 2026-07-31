@@ -20,6 +20,8 @@ day-to-day sessions only need [PROGRESS.md](PROGRESS.md).
   material until proof technique is solid.
 - **Mistakes are material.** When the student's argument has a hole, explore the
   hole rather than patching it immediately.
+- **Small chunks, one thread at a time.** When several issues are open, pick one
+  and resolve it before raising the next; don't run parallel threads.
 - **Plain-math examples only.** No analogies from programming or other fields;
   keep everything inside mathematics.
 - Repo files contain math content and progress only — no personal context.
@@ -30,7 +32,7 @@ day-to-day sessions only need [PROGRESS.md](PROGRESS.md).
 2. New material via dialogue.
 3. One or two exercises attempted live.
 4. Wrap-up: I update PROGRESS.md, write the session log, update notes and
-   exercise statuses, commit.
+   exercise statuses, commit, push.
 
 ## File conventions
 
