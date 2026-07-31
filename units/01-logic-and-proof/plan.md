@@ -2,6 +2,9 @@
 
 Part of the [curriculum](../../curriculum.md). Method: [METHOD.md](../../METHOD.md).
 
+**Status: done** (sessions [0001](../../sessions/0001-2026-07-31.md),
+[0002](../../sessions/0002-2026-07-31.md)); all "Done when" criteria met.
+
 ## Goal
 
 Rebuild fluency in the raw material of proofs: what a mathematical statement
@@ -23,18 +26,20 @@ Adjust the pace based on what comes back.
 
 ## Topics
 
-- [ ] Statements vs. non-statements; truth values
+- [x] Statements vs. non-statements; truth values — session 0002; free
+      variable (open sentence) and vagueness as the two failure modes
 - [x] Logical connectives: and, or, not, implies, iff — implication's truth
       table and why vacuous truth makes sense (verified in diagnostic)
 - [x] Quantifiers ∀ and ∃; order of quantifiers and why it matters
       (verified in diagnostic)
 - [x] Negating statements mechanically (De Morgan, negating quantifiers,
-      negating implication) — session 0001; retest cold before closing unit
-- [ ] What counts as a proof; proving vs. refuting; the role of
-      counterexamples (largely covered in session 0001 via refutation and
-      the 1/n < ε proof; revisit alongside remaining proofs)
-- [ ] Reading and unpacking a definition (using divisibility and evenness as
-      the running examples)
+      negating implication) — session 0001; retested cold in session 0002
+      (ε–δ statement, passed)
+- [x] What counts as a proof; proving vs. refuting; the role of
+      counterexamples (session 0001 via refutation and the 1/n < ε proof;
+      session 0002 via proofs 0003/0004 and the Goldbach discussion)
+- [x] Reading and unpacking a definition (divisibility and evenness) —
+      session 0002; choose/exhibit idioms, edge cases incl. 0 | 0
 
 ## Done when
 
