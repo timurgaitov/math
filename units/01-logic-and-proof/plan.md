@@ -24,12 +24,15 @@ Adjust the pace based on what comes back.
 ## Topics
 
 - [ ] Statements vs. non-statements; truth values
-- [ ] Logical connectives: and, or, not, implies, iff — implication's truth
-      table and why vacuous truth makes sense
-- [ ] Quantifiers ∀ and ∃; order of quantifiers and why it matters
-- [ ] Negating statements mechanically (De Morgan, negating quantifiers,
-      negating implication)
-- [ ] What counts as a proof; proving vs. refuting; the role of counterexamples
+- [x] Logical connectives: and, or, not, implies, iff — implication's truth
+      table and why vacuous truth makes sense (verified in diagnostic)
+- [x] Quantifiers ∀ and ∃; order of quantifiers and why it matters
+      (verified in diagnostic)
+- [x] Negating statements mechanically (De Morgan, negating quantifiers,
+      negating implication) — session 0001; retest cold before closing unit
+- [ ] What counts as a proof; proving vs. refuting; the role of
+      counterexamples (largely covered in session 0001 via refutation and
+      the 1/n < ε proof; revisit alongside remaining proofs)
 - [ ] Reading and unpacking a definition (using divisibility and evenness as
       the running examples)
 
