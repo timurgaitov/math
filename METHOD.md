@@ -47,8 +47,8 @@ day-to-day sessions only need [PROGRESS.md](PROGRESS.md).
 2. New material via dialogue.
 3. One or two exercises attempted live.
 4. Wrap-up: I update PROGRESS.md, write the session log, update notes and
-   exercise statuses, commit, push — done directly when the session ends
-   (or the student says "finish"), without asking for confirmation.
+   exercise statuses, commit, push — done directly when the session ends,
+   without asking for confirmation.
 
 ## File conventions
 
