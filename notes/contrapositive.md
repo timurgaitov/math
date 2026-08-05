@@ -2,7 +2,9 @@
 
 Unit: [02 — Proof techniques](../units/02-proof-techniques/plan.md).
 Related: [direct-proof.md](direct-proof.md),
-[negating-statements.md](negating-statements.md).
+[negating-statements.md](negating-statements.md),
+[proof-by-contradiction.md](proof-by-contradiction.md),
+[logic-identities.md](logic-identities.md).
 
 ## The rule
 

@@ -16,8 +16,9 @@ elementary: integers, divisibility, parity, simple inequalities.
       exhibit/verify the goal) — session 0003
 - [x] Contrapositive: ¬Q ⇒ ¬P proves P ⇒ Q; when it's easier and why
       (e.g. "if n² is even then n is even") — session 0003
-- [ ] Proof by contradiction; how it differs from contrapositive; the
-      classic √2 ∉ ℚ
+- [x] Proof by contradiction; how it differs from contrapositive; the
+      classic √2 ∉ ℚ — session 0004 (descent version; lowest-terms
+      packaging to revisit)
 - [ ] Proof by cases; WLOG and its obligations
 - [ ] Disproof: a counterexample is a proof (of the negation) — ties back
       to Unit 1 negation

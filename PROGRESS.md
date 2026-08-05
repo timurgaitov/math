@@ -5,16 +5,17 @@
 ## Current position
 
 - Unit: [Unit 2 — Proof techniques](units/02-proof-techniques/plan.md)
-- Status: in progress — direct proof and contrapositive done (session 0003,
-  exercises 0005–0006 solved). Next topic: proof by contradiction, incl.
-  how it differs from contrapositive, then √2 ∉ ℚ.
-- Last session: [0003, 2026-08-01](sessions/0003-2026-08-01.md) — start next
+- Status: in progress — direct, contrapositive, contradiction done
+  (session 0004: √2 ∉ ℚ by descent, exercise 0007; logic identities
+  detour → notes/logic-identities.md). Next: lowest-terms packaging of
+  0007 briefly, then proof by cases and WLOG.
+- Last session: [0004, 2026-08-05](sessions/0004-2026-08-05.md) — start next
   session with its recall questions.
 
 ## What to load next session
 
 1. This file
-2. [sessions/0003-2026-08-01.md](sessions/0003-2026-08-01.md) (has the recall questions)
+2. [sessions/0004-2026-08-05.md](sessions/0004-2026-08-05.md) (has the recall questions)
 3. [units/02-proof-techniques/plan.md](units/02-proof-techniques/plan.md)
 
 ## Pointers
