@@ -22,6 +22,9 @@ day-to-day sessions only need [PROGRESS.md](PROGRESS.md).
   hole rather than patching it immediately.
 - **Small chunks, one thread at a time.** When several issues are open, pick one
   and resolve it before raising the next; don't run parallel threads.
+- **Side threads end on the student's signal.** During a detour, answer the
+  side question and stop — no re-posing the main exercise, no thread-status
+  footers. The student says when to return to the main road.
 - **Plain-math examples only.** No analogies from programming or other fields;
   keep everything inside mathematics.
 - Repo files contain math content and progress only — no personal context.
@@ -44,7 +47,8 @@ day-to-day sessions only need [PROGRESS.md](PROGRESS.md).
 2. New material via dialogue.
 3. One or two exercises attempted live.
 4. Wrap-up: I update PROGRESS.md, write the session log, update notes and
-   exercise statuses, commit, push.
+   exercise statuses, commit, push — done directly when the session ends
+   (or the student says "finish"), without asking for confirmation.
 
 ## File conventions
 
