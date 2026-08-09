@@ -46,12 +46,38 @@ S itself and the pile fills instantly.
 >     previously established; therefore the assumption is the liar:
 >     √2 ∉ ℚ. ∎
 
-This is the **infinite descent** version. The textbook shortcut instead
-strengthens the choose in line 2 — pick n, m with no common factor
-("lowest terms") — and then "n and m both even" (lines 5, 8) contradicts
-that choice immediately. Same engine underneath: the strengthened choose
-is licensed by the same well-ordering fact the descent uses. To revisit
-next session.
+This is the **infinite descent** version. The textbook packaging below
+(session [0005](../sessions/0005-2026-08-09.md)) is the same engine
+pre-paid: well-ordering spent up front to strengthen the choose, so the
+dividing-by-2 move runs once and crashes immediately, instead of forever.
+
+## Lowest-terms packaging (session 0005)
+
+The textbook opening "write √2 = a/b in lowest terms" is a
+**strengthened choose**, unpacked live as:
+
+1. Assume √2 ∈ ℚ; representations with positive a, b exist (flip both
+   signs if needed). Form A = { a ∈ ℤ⁺ : √2 = a/b for some b ∈ ℤ⁺ } —
+   nonempty under the assumption, so **well-ordering** hands a least
+   numerator a, and its b comes along uniquely.
+2. Least numerator ⇒ lowest terms, one step: a common divisor k > 1
+   would give √2 = (a/k)/(b/k) with a/k < a in A — contradiction.
+   (The k > 1 strictness is what makes a/k smaller.)
+
+Then the proof, fully licensed:
+
+> a² = 2b² ⇒ a² even ⇒ a even ([0006](0006-square-even-implies-even.md))
+> ⇒ a = 2c ⇒ 4c² = 2b² ⇒ b² = 2c² ⇒ b even (0006 again)
+> ⇒ 2 divides both a and b — but gcd(a, b) = 1 is in the pile. ∎
+
+Notes from the live run:
+
+- First assembly tried 2 = a²/b², gcd(a, b) = 1 ⇒ b = 1 — which leans
+  on gcd(a, b) = 1 ⇒ gcd(a², b²) = 1, true but **unlicensed** (a real
+  theorem, not bedrock). Rerouted through 0006 on prompt.
+- The crash pair here is R ∧ ¬R with ¬R coming *from the pile itself*
+  (gcd = 1), where the descent version crashed against a known truth —
+  the two sources of ¬R, one proof each.
 
 ## What the exercise surfaced (for later recall)
 

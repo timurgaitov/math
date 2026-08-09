@@ -26,7 +26,9 @@ may be slotted in (A := ¬P is fine), exactly as x may stand for (a − b).
   session 0004 from the table via (P ∧ Q) ∨ ¬P, compressed by
   distributivity.
 - **De Morgan**: ¬(A ∨ B) ≡ ¬A ∧ ¬B and ¬(A ∧ B) ≡ ¬A ∨ ¬B — ¬ swaps
-  ∨ ↔ ∧ and hits each side.
+  ∨ ↔ ∧ and hits each side. Proven by table in session 0005 — being
+  bedrock-near, it *must* come from a table: the first identity in any
+  algebraic chain cannot itself be proven algebraically.
 - **Double negation**: ¬¬A ≡ A.
 - **Commutativity / distributivity** of ∨ and ∧, as in arithmetic
   (∨ distributes over ∧ and vice versa).
@@ -51,7 +53,15 @@ Worked results:
 Trap met in session 0004: negating both sides of an implication in place
 builds the **inverse**, not the negation — it does not flip truth (it is
 the converse in disguise: ¬P ⇒ ¬Q ≡ P ∨ ¬Q ≡ Q ⇒ P). The honest
-negation is P ∧ ¬Q, computed above. Corollary: the contrapositive of an
+negation is P ∧ ¬Q, computed above.
+
+The **true-count argument** (session 0005) settles it by shape alone: a
+negation must flip truth in every row, and P ⇒ Q is false in exactly one
+row — so its negation is true in exactly one. But *any* implication in
+P, Q is true in three rows (it only fails one way). Wrong count, so no
+implication can ever be the negation of another; what is true in exactly
+one row is a conjunction, and P ∧ ¬Q is true in precisely the row
+needed. Corollary: the contrapositive of an
 ⇔ is the same ⇔ — flipping a definition can never produce a new attack.
 
 ## What it all rests on (three commitments)

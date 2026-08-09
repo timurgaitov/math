@@ -13,9 +13,13 @@ To prove a statement T:
    usable fact.
 2. Reason validly from the pile — every line licensed by a line above it,
    exactly as in a direct proof.
-3. Arrive at an **absurdity**: a statement contradicting a known fact
-   (or the pile itself).
-4. Conclude T.
+3. Arrive at an **absurdity** — the finish line, made precise in
+   session 0005: a pair of derived lines **R and ¬R** (`\neg R`). The
+   partner ¬R has two possible sources: a known truth (0007's descent:
+   an integer strictly between 0 and 1), or the pile itself (0007's
+   lowest-terms version: 2 divides both against gcd = 1).
+4. Conclude T. ("The assumption is false" is the *payoff*, stated from
+   outside the derivation — not itself a line of it.)
 
 ## Why step 4 is licensed (the "liar in the pile" argument)
 

@@ -7,7 +7,7 @@ proof technique is solid.
 | # | Unit | Status | Plan |
 |---|------|--------|------|
 | 1 | Logic and the language of proof | done | [plan](units/01-logic-and-proof/plan.md) |
-| 2 | Proof techniques (direct, contrapositive, contradiction, induction) | not started | [plan](units/02-proof-techniques/plan.md) |
+| 2 | Proof techniques (direct, contrapositive, contradiction, induction) | in progress | [plan](units/02-proof-techniques/plan.md) |
 | 3 | Sets, relations, functions | pending | — |
 | 4+ | Track choice: analysis / algebra / linear algebra / number theory | pending | — |
 
