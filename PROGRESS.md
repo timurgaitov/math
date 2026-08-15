@@ -5,21 +5,19 @@
 ## Current position
 
 - Unit: [Unit 2 — Proof techniques](units/02-proof-techniques/plan.md)
-- Status: in progress — direct, contrapositive, contradiction (both
-  packagings of 0007), cases and WLOG done (session 0005: dichotomy
-  theorem proven from well-ordering + gap axiom; odd := not even
-  pinned; exercises 0008–0009 solved, 0010 open as warm-up).
-  Next: disproof by counterexample, then induction.
-- Last session: [0005, 2026-08-09](sessions/0005-2026-08-09.md) — start
-  next session with its recall questions (incl. exercise 0010 as
-  warm-up).
+- Status: in progress — direct, contrapositive, contradiction, cases,
+  WLOG, and disproof done (session 0006: warm-up 0010 closed, so
+  even/odd is a proven exclusive-or; disproof = proof of the negation;
+  exercises 0011–0012 solved; three new dialogue rules in METHOD.md).
+  Next: induction, then choosing a technique.
+- Last session: [0006, 2026-08-15](sessions/0006-2026-08-15.md) — start
+  next session with its recall questions.
 
 ## What to load next session
 
 1. This file
-2. [sessions/0005-2026-08-09.md](sessions/0005-2026-08-09.md) (has the recall questions)
+2. [sessions/0006-2026-08-15.md](sessions/0006-2026-08-15.md) (has the recall questions)
 3. [units/02-proof-techniques/plan.md](units/02-proof-techniques/plan.md)
-4. [exercises/0010-no-integer-both-even-and-odd.md](exercises/0010-no-integer-both-even-and-odd.md) (open warm-up)
 
 ## Pointers
 

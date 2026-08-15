@@ -22,8 +22,10 @@ elementary: integers, divisibility, parity, simple inequalities.
 - [x] Proof by cases; WLOG and its obligations — session 0005
       (exhaustiveness license, vacuous truth, WLOG = checked invariance;
       even/odd dichotomy proven from well-ordering + gap axiom)
-- [ ] Disproof: a counterexample is a proof (of the negation) — ties back
-      to Unit 1 negation
+- [x] Disproof: a counterexample is a proof (of the negation) — ties back
+      to Unit 1 negation — session 0006 (negation computed through ∀ and ⇒;
+      witness exhibited *and verified*; Euler's polynomial as the
+      finite-checking cautionary tale)
 - [ ] Induction: base case, inductive step, where the hypothesis gets used;
       strong induction
 - [ ] Choosing a technique: reading a claim and picking the natural attack

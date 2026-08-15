@@ -22,6 +22,14 @@ day-to-day sessions only need [PROGRESS.md](PROGRESS.md).
   hole rather than patching it immediately.
 - **Small chunks, one thread at a time.** When several issues are open, pick one
   and resolve it before raising the next; don't run parallel threads.
+- **One question at a time.** A tutor turn poses at most one question; don't
+  bundle a correction's follow-up with a fresh probe in the same message.
+- **Context before questions.** Never reference past work by bare exercise or
+  session number in dialogue — give a one-line content reminder ("the odd-sum
+  exercise: x + y odd ⇒ exactly one of them odd") before asking about it.
+- **Recall targets substance, not labels.** Recall questions ask what a
+  principle says, how a proof worked, why a step was licensed. The tutor
+  supplies names in passing; ask for a name only when it's load-bearing.
 - **Side threads end on the student's signal.** During a detour, answer the
   side question and stop — no re-posing the main exercise, no thread-status
   footers. The student says when to return to the main road.
